@@ -15,8 +15,8 @@ import watson_developer_cloud.natural_language_understanding.features.v1 as \
 
 nlu = watson_developer_cloud.NaturalLanguageUnderstandingV1(
     version='2017-02-27',
-    username='YOUR SERVICE USERNAME',
-    password='YOUR SERVICE PASSWORD')
+    username='ddc3ed94-6032-417b-ac2e-ab7faa8ee11f',
+    password='4ct36lkd1p4Z')
 
 
 # In[6]:
