@@ -3,6 +3,6 @@ applications:
   memory: 128M
   instances: 1
   domain: mybluemix.net
-  name: nlu-liutest1
-  host: nlu-liutest1
+  name: nlu-liutest1-b
+  host: nlu-liutest1-b
   disk_quota: 1024M
